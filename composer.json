@@ -1,0 +1,16 @@
+{
+  "name": "vundo/validator",
+  "description": "Simple Validator class",
+  "type": "library",
+  "keywords": ["validation", "security", "forms", "input"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mirko Kroese",
+      "email": "mirko@vundo.nl"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"Vundo\\Validator\\": "Validator"}
+  }
+}
